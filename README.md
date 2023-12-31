@@ -3,6 +3,8 @@
 <p>This is the interactive dashboard for users. This dashboard contains four buttons, and by clicking any graph or button, we may learn more about the data at that specific moment. Each button provides performance information for the corresponding year. </p>
 <p>The dataset from which it has been made is a huge dataset consisting of 51291 rows and 25 feature columns. The datasets were noisy, which was transformed</p>
 
-<img src="https://user-images.githubusercontent.com/83163103/188327551-61698c20-f618-42e8-9d8b-9567be0dcde8.PNG" >
+<img src="https://github.com/AloraKesharwani/E-COMMERCE_SALES_POWERBI_DASHBOARD/assets/155231669/9e903391-7030-496a-9676-5aea53f78315" >
 
-<p>August 2022 – September 2022<p/>
+<img src="https://github.com/AloraKesharwani/E-COMMERCE_SALES_POWERBI_DASHBOARD/assets/155231669/34f1dbbb-230e-4af9-8ac5-3342037b22f9" >
+
+<p>25 December 2023 – Decemeber 2023<p/>
