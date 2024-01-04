@@ -1,5 +1,5 @@
 # E-COMMERCE_SALES_DASHBOARD
-<p> Here you need to write description </p>
+<p> Here you need to write description </ p>
 <p><h3>DATA MODELLING </h3></p>
 <img src="https://github.com/AloraKesharwani/E-COMMERCE_SALES_POWERBI_DASHBOARD/assets/155231669/9e903391-7030-496a-9676-5aea53f78315" >
 
