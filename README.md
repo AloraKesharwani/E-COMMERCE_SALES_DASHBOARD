@@ -8,6 +8,8 @@ Identifying and targeting top customers based on higher spending for special dis
 <p><h3>DATA MODELLING </h3></p>
 <img src="https://github.com/AloraKesharwani/E-COMMERCE_SALES_POWERBI_DASHBOARD/assets/155231669/9e903391-7030-496a-9676-5aea53f78315" >
 
+<p> The Orders table and the Details tables have a one-to-many relationship that is based on the filed OrderID. </p>
+
 <p><h3>SALES DASHBORD </h3></p>
 <img src="https://github.com/AloraKesharwani/E-COMMERCE_SALES_POWERBI_DASHBOARD/assets/155231669/74beb4be-76af-4178-8a9a-8e7ae7faee49" >
 
