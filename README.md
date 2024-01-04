@@ -1,5 +1,8 @@
 # E-COMMERCE_SALES_DASHBOARD
-<p> Here you need to write description </ p>
+<p>An eCommerce sales dashboard is a visual representation of key performance indicators (KPIs) and metrics related to the sales and performance of an online store. It provides a quick and accessible way for business owners analyze the performance of their eCommerce business.
+  
+This is the interactive dashboard for users. This dashboard contains four buttons, and by clicking any chart or button, we may learn more about the data at that specific moment. Each button provides performance information for the corresponding Quater.
+
 <p><h3>DATA MODELLING </h3></p>
 <img src="https://github.com/AloraKesharwani/E-COMMERCE_SALES_POWERBI_DASHBOARD/assets/155231669/9e903391-7030-496a-9676-5aea53f78315" >
 
