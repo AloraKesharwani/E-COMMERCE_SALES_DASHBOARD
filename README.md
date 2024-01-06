@@ -25,11 +25,11 @@ This dashboard contains four buttons to indicate the quarterly performance of bu
 </p>
 <p>
   <b>4. QUANTITY BY CATEGORIES:</b> 
-  Analysing quantity by subcategory reveals essential insights into product popularity. It helps identify best-selling subcategories, assess demand patterns, and optimise inventory management. This analysis empowers businesses to strategically allocate resources, enhance stock levels for high-demand items, and make marketing efforts to capitalise on popular product categories, ultimately improving overall sales performance and customer satisfaction. 
+  Quantity by subcategory reveals essential insights into the product's popularity. It helps identify best-selling subcategories that assess demand patterns and also helps optimize inventory management. Which empowers businesses to allocate resources strategically and enhance stock levels for high-demand items. 
 </p>
 <p>
   <b>5. TOP STATES:</b> 
-  Determining the top-performing state by analysing various metrics. By evaluating metrics such as total sales, customer acquisition, and profitability by state, businesses can identify the region contributing the most to overall success. This analysis guides strategic decisions, allowing businesses to focus resources, marketing efforts, and customer engagement strategies on the top-performing state for sustained growth and market dominance. Identifying and targeting top customers based on higher spending for special discounts and coupons is a strategic approach to cultivating preferred customer relationships.
+  The top-performing state has been determined by metrics such as total sales, customer acquisition, and profitability by state.This graph helps in making strategic decisions, allowing businesses to focus on resources, marketing, and customer engagement strategies in the top-performing state for sustained growth and market dominance.
 </p>
 <p>
   
