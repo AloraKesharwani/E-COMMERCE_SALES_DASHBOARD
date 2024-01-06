@@ -3,7 +3,7 @@
 
 This dashboard contains four buttons to indicate the quarterly performance of businesses, and by clicking any chart or button, businesses can get to know more about the trends and collection of data for that specific period of time.</p>
 
-<h2>Down below are some images of my dashboard and the data model that was used in creating it.</h2>
+<h2>Down below are some images of my dashboard and the data model that was used.</h2>
 <p><h3>DATA MODELLING </h3></p>
 <img src="https://github.com/AloraKesharwani/E-COMMERCE_SALES_POWERBI_DASHBOARD/assets/155231669/9e903391-7030-496a-9676-5aea53f78315" >
 
