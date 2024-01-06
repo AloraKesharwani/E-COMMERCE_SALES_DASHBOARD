@@ -22,12 +22,6 @@ This dashboard contains four buttons to indicate the quarterly performance of bu
 <p>
   <b>3. PAYMENT MODES:</b> 
  The payment modes provide crucial insights into transaction preferences. By understanding which payment methods are most frequently used, businesses can optimize their payment processes and marketing strategies and potentially negotiate terms better with payment providers. This analysis aids in creating a seamless and customer-friendly payment experience while also addressing any potential issues or bottlenecks associated with specific payment modes.
-
->[!IMPORTANT]
-><h5>Analysis:</h5>According to analysis there are 4 payment method  that we follow out of which most of people love to do their payment  though COD (Cash on Deliver) with the perchance of 44% and lowest are EMI with the 10% of people that provide a  good sign for the business that Cash inflow is on time and better percentage of people are able to do their payments 
-
->[!CAUTION]
-><h5>Need to work:</h5>It looks like still business need to established a product trust with in customer so customer can do payment before product gets delivered to them.
 </p>
 <p>
   <b>4. QUANTITY BY CATEGORIES:</b> 
@@ -37,5 +31,20 @@ This dashboard contains four buttons to indicate the quarterly performance of bu
   <b>5. TOP STATES:</b> 
   Determining the top-performing state by analysing various metrics. By evaluating metrics such as total sales, customer acquisition, and profitability by state, businesses can identify the region contributing the most to overall success. This analysis guides strategic decisions, allowing businesses to focus resources, marketing efforts, and customer engagement strategies on the top-performing state for sustained growth and market dominance. Identifying and targeting top customers based on higher spending for special discounts and coupons is a strategic approach to cultivating preferred customer relationships.
 </p>
+<p>
+  
+>[!IMPORTANT]
+><h5>Analysis:</h5>
+><ol type="1">
+  ><li>According to analysis there are 4 payment method  that we follow out of which most of people love to do their payment  though COD (Cash on Deliver) with the perchance of 44% and lowest are EMI with the 10% of people that provide a  good sign for the business that Cash inflow is on time and better percentage of people are able to do their payments </li>
+  ><li>write what you want to write </li>
+></ol>
 
+>[!CAUTION]
+><h5>Need to work:</h5>
+><ol type="1">
+  ><li>It looks like still business need to established a product trust with in customer so customer can do payment before product gets delivered to them.</li>
+></ol>
+
+</p>
 <p>Dec 2023 – Jan 2024 <p/>
