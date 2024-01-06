@@ -12,11 +12,11 @@ This dashboard contains four buttons to indicate the quarterly performance of bu
 <p><h3>SALES DASHBORD </h3></p>
 <img src="https://github.com/AloraKesharwani/E-COMMERCE_SALES_POWERBI_DASHBOARD/assets/155231669/74beb4be-76af-4178-8a9a-8e7ae7faee49">
 <p>
-  <b>1. Profit By Month:</b> 
+  <b>1. PROFIT BY MONTH:</b> 
   This graph provides an understanding of profit distribution per month so that comparisons between actual and predicted profit can be easily monitored. It also provides a clear understanding of financial performance and helps in identifying peak periods, fluctuations, and areas for improvement. This analysis facilitates timely decision-making, allowing businesses to optimize strategies and maximize profitability.
 </p>
 <p>
-  <b>2. Profit By Subcategory:</b> 
+  <b>2. PROFIT BY SUBCATEGORY:</b> 
   Show the profit earned on each category of products and indicate its performance. It also helps identify the best and least profitable categories, which helps businesses make decisions about optimizing pricing and allocation of resources efficiently so they can focus on lucrative product lines, enhance profitability, and make informed decisions for sustained success.
 </p>
 <p>
@@ -47,4 +47,4 @@ This dashboard contains four buttons to indicate the quarterly performance of bu
 ></ol>
 
 </p>
-<p>Dec 2023 – Jan 2024 <p/>
+<p><h4>Created On: </h4>Dec 2023 – Jan 2024 <p/>
