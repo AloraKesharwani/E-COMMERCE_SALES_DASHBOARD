@@ -7,7 +7,7 @@ This dashboard contains four buttons to indicate the quarterly performance of bu
 <p><h3>DATA MODELLING </h3></p>
 <img src="https://github.com/AloraKesharwani/E-COMMERCE_SALES_POWERBI_DASHBOARD/assets/155231669/9e903391-7030-496a-9676-5aea53f78315" >
 
-<p> The Orders table and the Details tables have a one-to-many relationship that is based on the filed OrderID. </p>
+<p> The Orders table and the Details tables have a one-to-many relationship that is based on the field OrderID. </p>
 
 <p><h3>SALES DASHBORD </h3></p>
 <img src="https://github.com/AloraKesharwani/E-COMMERCE_SALES_POWERBI_DASHBOARD/assets/155231669/74beb4be-76af-4178-8a9a-8e7ae7faee49">
@@ -32,4 +32,4 @@ This dashboard contains four buttons to indicate the quarterly performance of bu
   Determining the top-performing state by analysing various metrics. By evaluating metrics such as total sales, customer acquisition, and profitability by state, businesses can identify the region contributing the most to overall success. This analysis guides strategic decisions, allowing businesses to focus resources, marketing efforts, and customer engagement strategies on the top-performing state for sustained growth and market dominance. Identifying and targeting top customers based on higher spending for special discounts and coupons is a strategic approach to cultivating preferred customer relationships.
 </p>
 
-<p>Dec 2023 – jan 2024 <p/>
+<p>Dec 2023 – Jan 2024 <p/>
