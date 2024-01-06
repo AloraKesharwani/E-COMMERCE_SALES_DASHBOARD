@@ -17,7 +17,7 @@ This dashboard contains four buttons to indicate the quarterly performance of bu
 </p>
 <p>
   <b>2. PROFIT BY SUBCATEGORY:</b> 
-  Show the profit earned on each category of products and indicate its performance. It also helps identify the best and least profitable categories, which helps businesses make decisions about optimizing pricing and allocation of resources efficiently so they can focus on lucrative product lines, enhance profitability, and make informed decisions for sustained success.
+  Shows the profit earned on each category of products and indicate its performance. It also helps identify the best and least profitable categories, which helps businesses make decisions about optimizing pricing and allocation of resources efficiently so they can focus on lucrative product lines, enhance profitability, and make informed decisions for sustained success.
 </p>
 <p>
   <b>3. PAYMENT MODES:</b> 
