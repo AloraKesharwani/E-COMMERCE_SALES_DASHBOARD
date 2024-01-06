@@ -21,7 +21,7 @@ This dashboard contains four buttons to indicate the quarterly performance of bu
 </p>
 <p>
   <b>3. PAYMENT MODES:</b> 
- The payment modes provide crucial insights into transaction preferences. By understanding which payment methods are most frequently used, businesses can optimize their payment processes and marketing strategies and potentially negotiate terms better with payment providers. This analysis aids in creating a seamless and customer-friendly payment experience while also addressing any potential issues or bottlenecks associated with specific payment modes.
+ The payment modes provide crucial insights into transaction preferences. By understanding which payment methods are most frequently used, businesses can optimize their payment processes and marketing strategies and potentially negotiate better terms with payment providers. This analysis aids in creating a seamless and customer-friendly payment experience while also addressing any potential issues or bottlenecks associated with specific payment modes.
 </p>
 <p>
   <b>4. QUANTITY BY CATEGORIES:</b> 
