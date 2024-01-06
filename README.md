@@ -17,11 +17,17 @@ This dashboard contains four buttons to indicate the quarterly performance of bu
 </p>
 <p>
   <b>2. Profit By Subcategory:</b> 
-  Show the profit earned on each category of products and state the product's performance. It helps identify the best and least profitable categories, which helps businesses make decisions about optimizing pricing and allocation of resources efficiently so they can focus on lucrative product lines, enhance profitability, and make informed decisions for sustained success.
+  Show the profit earned on each category of products and indicate its performance. It also helps identify the best and least profitable categories, which helps businesses make decisions about optimizing pricing and allocation of resources efficiently so they can focus on lucrative product lines, enhance profitability, and make informed decisions for sustained success.
 </p>
 <p>
   <b>3. PAYMENT MODES:</b> 
-  Analysing the payment modes provides crucial insights into transaction preferences. By understanding which payment methods are most frequently used, businesses can optimise their payment processes and marketing strategies and potentially negotiate better terms with payment providers. This analysis aids in creating a seamless and customer-friendly payment experience while also addressing any potential issues or bottlenecks associated with specific payment modes.
+ The payment modes provide crucial insights into transaction preferences. By understanding which payment methods are most frequently used, businesses can optimize their payment processes and marketing strategies and potentially negotiate terms better with payment providers. This analysis aids in creating a seamless and customer-friendly payment experience while also addressing any potential issues or bottlenecks associated with specific payment modes.
+
+>[!IMPORTANT]
+><h5>Analysis:</h5>According to analysis there are 4 payment method  that we follow out of which most of people love to do their payment  though COD (Cash on Deliver) with the perchance of 44% and lowest are EMI with the 10% of people that provide a  good sign for the business that Cash inflow is on time and better percentage of people are able to do their payments 
+
+>[!CAUTION]
+><h5>Need to work:</h5>It looks like still business need to established a product trust with in customer so customer can do payment before product gets delivered to them.
 </p>
 <p>
   <b>4. QUANTITY BY CATEGORIES:</b> 
